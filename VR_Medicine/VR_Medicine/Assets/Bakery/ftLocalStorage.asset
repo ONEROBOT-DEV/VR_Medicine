@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05ca84e725c7c764aa5ed097918d14b7, type: 3}
+  m_Name: ftLocalStorage
+  m_EditorClassIdentifier: 
+  modifiedAssetPathList:
+  - Assets/Bakery/examples/content/sponza/sponza.FBX
+  - Assets/ICSI/Models/table.fbx
+  - Assets/Plugins/Hospital Laboratory/Models/Laboratory closet 3.FBX
+  - Assets/Plugins/Hospital Laboratory/Models/Stool 1.FBX
+  - Assets/Plugins/Hospital Laboratory/Models/Basinstand.FBX
+  - Assets/Plugins/Hospital Laboratory/Models/Latex gloves.fbx
+  - Assets/Plugins/Hospital Laboratory/Models/Door 1.FBX
+  - Assets/Plugins/Hospital Laboratory/Models/Table 2.FBX
+  - Assets/Plugins/Hospital Laboratory/Models/Wall 4.FBX
+  - Assets/Plugins/Hospital Laboratory/Models/Ceiling.FBX
+  - Assets/Plugins/Hospital Laboratory/Models/Wall 1.FBX
+  - Assets/Plugins/Hospital Laboratory/Models/Laboratory closet 2.FBX
+  - Assets/Plugins/Hospital Laboratory/Models/Floor.fbx
+  - Assets/Plugins/Gynecologist's office - interior and props/Gynecologist's office
+    - interior and props/models/monitor.fbx
+  - Assets/Plugins/Gynecologist's office - interior and props/Gynecologist's office
+    - interior and props/models/chair.fbx
+  - Assets/TVP/Core/Inputs/Models/Uzi/vacuum-printer-demo.FBX
+  - Assets/Plugins/Hospital Laboratory/Models/Clinic clothes 2.FBX
+  - Assets/Plugins/Hospital Laboratory/Models/Medicine 6.FBX
+  - Assets/Plugins/Hospital Laboratory/Models/Container 4.FBX
+  - Assets/Plugins/Hospital Laboratory/Models/Medicine 3.FBX
+  - Assets/Plugins/Hospital Laboratory/Models/Clock.FBX
+  - Assets/Plugins/Hospital Laboratory/Models/Tray.fbx
+  - Assets/Plugins/Hospital Laboratory/Models/Towel.fbx
+  - Assets/Plugins/Hospital Laboratory/Models/Files 2.FBX
+  - Assets/Plugins/Hospital Laboratory/Models/Medicine 1.FBX
+  - Assets/Plugins/Hospital Laboratory/Models/Medicine 2.FBX
+  - Assets/Plugins/Hospital Laboratory/Models/Paper.FBX
+  - Assets/Plugins/Hospital Laboratory/Models/Clinic clothes 1.FBX
+  - Assets/Plugins/Hospital Laboratory/Models/Box 2.FBX
+  - Assets/Plugins/Hospital Laboratory/Models/Container 3.FBX
+  - Assets/Plugins/Hospital Laboratory/Models/Container 2.FBX
+  - Assets/Plugins/Hospital Laboratory/Models/Samples.FBX
+  - Assets/Plugins/Hospital Laboratory/Models/Container 5.FBX
+  - Assets/Plugins/Hospital Laboratory/Models/Container 1.FBX
+  - Assets/Plugins/Hospital Laboratory/Models/Hand sanitizier.fbx
+  - Assets/Plugins/Gynecologist's office - interior and props/Gynecologist's office
+    - interior and props/models/plant.fbx
+  - Assets/Plugins/Hospital Laboratory/Models/Fire alarm.FBX
+  - Assets/Plugins/Hospital Laboratory/Models/Laboratory closet 1.FBX
+  - Assets/Plugins/Hospital Laboratory/Models/Files 1.FBX
+  - Assets/ICSI/Models/incubator/incubator.FBX
+  - Assets/ICSI/Models/Fridge.fbx
+  - Assets/Plugins/Modern Interior Pack/Models/Tables/table002.FBX
+  - Assets/ICSI/Models/Laminar/laminar.FBX
+  - Assets/MedicalEquipmentPack/Meshes/SM_AnestheticBreathingApparatus.fbx
+  modifiedAssetPaddingHash: d6a958fff1f23a06e01261bb0cf43a06fa4dfff0cdd150808cb46841cd693c2c353fd3d9383fd3d9343fd3d9af67e2a8333fd3d93f09ecc0c2c4d890cd7e32eef50aecc01928c115ba5634b70938ed047e4dfff0907f93637e4dfff0bb09ecc0f437ed04d631888319c2a693695031ee6209ecc02aa3dddeecc12491d60aecc0e937ed04fcb209ce0ba3ddde534ffff09550cf35de09ecc07ac2a693bb09ecc0ac42f679b4c2a693745b71fbf1f23a06
